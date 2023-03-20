@@ -61,7 +61,7 @@ namespace TCPClient.ViewModel {
             }
             
         }
-        //Test
+        //Test Branch
 
         private void Clear(object obj) {
             if (client == null) {
